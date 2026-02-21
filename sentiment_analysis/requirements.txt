@@ -1,9 +1,8 @@
-flask
-gunicorn
-authlib
+Flask
 pandas
 matplotlib
 openpyxl
-google-cloud-language
 google-auth
+google-auth-oauthlib
+google-auth-httplib2
 requests
